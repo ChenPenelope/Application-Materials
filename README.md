@@ -1,5 +1,4 @@
 # 其他有利審查資料
-Here are my certifications and projects I have done during college:
 
 ## 證書
 
