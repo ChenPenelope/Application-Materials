@@ -20,14 +20,14 @@ Here are my certifications and projects I have done during college:
 
   ### 1.第一屆法國巴黎人壽校園黑客松競賽-**入圍決賽**
 
-  ![以使用者經驗為導向之網站優化](https://reurl.cc/VWdMvR)
+  ![法巴.png](https://reurl.cc/VWdMvR)
 
   
 ## 課堂專題
 
   1.社群網路分析-孫子兵法與現代企業管理
 
-  ![孫子兵法與現代企業管理](https://reurl.cc/yA3voa)
+  ![孫子兵法與現代企業管理.png](https://reurl.cc/yA3voa)
 
   2.畢業專題-東吳大學二手書交易平台
 
