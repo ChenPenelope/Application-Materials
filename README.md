@@ -6,7 +6,7 @@
   
   競賽簡報檔案:https://reurl.cc/VWdMvR
   
-  以投資小白的角度來改善法國巴黎人壽的官網，幫助投資者更加了解保險商品，並進一步改善現有聯繫管道。
+  以投資新手的角度來改善法國巴黎人壽的官網，幫助投資者更加了解保險商品，並進一步改善現有聯繫管道。
   
   ![法巴.png](https://github.com/ChenPenelope/Application-Materials/blob/main/%E6%B3%95%E5%B7%B4.png)
 
