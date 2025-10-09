@@ -6,6 +6,8 @@
   
   競賽簡報檔案:https://reurl.cc/VWdMvR
   
+  以投資小白的角度來改善法國巴黎人壽的官網，幫助投資者更加了解保險商品，並進一步改善現有聯繫管道。
+  
   ![法巴.png](https://github.com/ChenPenelope/Application-Materials/blob/main/%E6%B3%95%E5%B7%B4.png)
 
   
@@ -24,7 +26,7 @@
 
   簡報檔案:https://reurl.cc/9nlEEO
 
-  
+  製作這個二手交易平台的目的除了減少大學生的經濟負擔以及減少資源浪費,最重要的是想建立一個網站作為現有匿名平台與校版的替代，讓校內學生只要簡單的步驟就可以在平台上自由安全的交易。
 
   ![113資料科學系專題實作成果海報.jpg](https://github.com/ChenPenelope/Application-Materials/blob/main/113%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%B3%BB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C%E6%88%90%E6%9E%9C%E6%B5%B7%E5%A0%B1.jpg)
 
@@ -32,7 +34,7 @@
 
   簡報檔案:https://reurl.cc/NxWjpk
 
-
+  運用Kaggle的FER2013資料集進行特徵提取以及處理，建立CNN模型進行三次訓練。結合文獻進行探討情緒辨識的應用是否有可改進的空間。
 
   ## 證書
 
