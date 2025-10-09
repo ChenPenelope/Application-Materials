@@ -1,20 +1,5 @@
 # 有利審查資料
 
-## 證書
-
-  ### 1.Python Language Today
-
-  ![SSE Python Language Today.jpg](https://github.com/ChenPenelope/Application-Materials/blob/main/SSE%20Python%20Language%20Today.jpg)
-  
-  ### 2.AWS Certified AI Practitioner
-
-  ![AWS Certified AI Practitioner certificate.jpg
-](https://github.com/ChenPenelope/Application-Materials/blob/main/AWS%20Certified%20AI%20Practitioner%20certificate.jpg)
-  
-  ### 3.Gemini Certified Educator
-
-  ![Gemini Certified Educator.png](https://github.com/ChenPenelope/Application-Materials/blob/main/Gemini%20Certified%20Educator.jpg)
-
 ## 競賽簡報
 
   ### 1.第一屆法國巴黎人壽校園黑客松競賽-**入圍決賽**
@@ -47,4 +32,19 @@
 
   簡報檔案:https://reurl.cc/NxWjpk
 
-  以Kaggle資料集
+
+
+  ## 證書
+
+  ### 1.Python Language Today
+
+  ![SSE Python Language Today.jpg](https://github.com/ChenPenelope/Application-Materials/blob/main/SSE%20Python%20Language%20Today.jpg)
+  
+  ### 2.AWS Certified AI Practitioner
+
+  ![AWS Certified AI Practitioner certificate.jpg
+](https://github.com/ChenPenelope/Application-Materials/blob/main/AWS%20Certified%20AI%20Practitioner%20certificate.jpg)
+  
+  ### 3.Gemini Certified Educator
+
+  ![Gemini Certified Educator.png](https://github.com/ChenPenelope/Application-Materials/blob/main/Gemini%20Certified%20Educator.jpg)
